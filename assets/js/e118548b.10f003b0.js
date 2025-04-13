@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyaoli_blog=self.webpackChunkyaoli_blog||[]).push([[7715],{7055:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/yaoli-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
